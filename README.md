@@ -1,1 +1,1 @@
-Its an simple UI for restaurent that I have developed using Html,css and JavaScript
+I have developed a user interface for a restaurant using HTML, CSS, and JavaScript.
